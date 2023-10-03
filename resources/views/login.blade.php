@@ -16,7 +16,7 @@
         <label>Lozinka</label>
         <input type="password" name="password" required>
         <br><br><br>
-        <button type="submit" value="Login">Registriraj se</button>
+        <button type="submit" value="Login">Logiraj se</button>
     </form>
 
 </body>
